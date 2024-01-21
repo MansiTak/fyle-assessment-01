@@ -12,10 +12,10 @@ Any browser, preferrable Google Chrome, Firefox or Edge.
 
 ### Notes
 
-**Assumptions:
-*The user enters a valid GitHub username.
-*The user selects a valid number of repositories per page (10, 25, 50, or 100).
-*The user has public repositories.
+* Assumptions:
+  1. The user enters a valid GitHub username.
+  2. The user selects a valid number of repositories per page (10, 25, 50, or 100).
+  3. The user has public repositories.
 
 Edge cases:
 If the user enters an invalid username or doesn't exist, the website displays "No repositories found."
